@@ -1,0 +1,17 @@
+{
+    "name": "Codewave",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "CODEWAVE",
+        "/category/asset_value_tracking/core-token/symbol": "CODEWAVE",
+        "/category/asset_value_tracking/core-token/decimals": "1234567890",
+        "/category/asset_value_tracking/core-token/supply": "100000000000",
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "folder"
+    }
+}
